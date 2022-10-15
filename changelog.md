@@ -7,6 +7,20 @@ This makes it possible to deploy new servers inside your [Hetzner-Cloud Portal](
 
 You can add your Hetzner API Keys to your personal credentials to enable this deployment Provider.
 
+## 2020-01-03
+Unfortunately, other partners dropped out again this year, so that we had to further restrict the services of Zhylon.de.
+In the future we will only offer our "Beta Services". These are not available to the public.
+
+This generally means that all services operated by Zhylon.de can only be used in the form of a beta subscription with immediate effect. All subscriptions are automatically rewritten. It will not be charged.
+
+In the future, we will issue all invoices with 0 EUR and show the corresponding discount.
+Any entitlement to the availability of the services is thereby also extinguished. We are still trying to achieve an availability of >99%, but if a server fails or we switch off the server, then there will be no refund for this.
+
+Of course we hope that you will still stick by us. You can support us by joining our channels, helping us with development or hosting. Or you can make a small contribution to us via the appropriate platforms.
+
+We hope that we can go back to normal operations at some point.
+(*Translated)
+
 ## 2018-12-21
 Our public API moved to version 2. Please view the docs for more informations.
 
