@@ -1,6 +1,12 @@
 # Zhylon.de Release Notes
 Here we track your feature request and the release updates
 
+## 2022-10-15
+We have added the [Hetzner-Cloud-API](https://docs.hetzner.cloud) in our portfolio.
+This makes it possible to deploy new servers inside your [Hetzner-Cloud Portal](https://hetzner-cloud.de/).
+
+You can add your Hetzner API Keys to your personal credentials to enable this deployment Provider.
+
 ## 2018-12-21
 Our public API moved to version 2. Please view the docs for more informations.
 
