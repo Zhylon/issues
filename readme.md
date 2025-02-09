@@ -1,6 +1,6 @@
-# Zhylon.de Issues
+# Zhylon.net Issues
 
-Here you can create any kind of issue you have with our service on [Zhylon.de](https://zhylon.de).
+Here you can create any kind of issue you have with our service on [Zhylon.net](https://zhylon.net).
 
 Following these guidelines helps to communicate that you respect the time of
 the developers managing and developing this project. In return,
